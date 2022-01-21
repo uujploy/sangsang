@@ -14,7 +14,7 @@ sangsanggongbang for final project
    
 ▷ 프로젝트 주제 : 원데이 클래스 매칭 사이트  
 ▷ 프로젝트 기간 : 2021-12-13 ~ 2022-01-20   
-▷ 인원 수 : 6명 (참여도 : 20%)  
+▷ 인원 수 : 6명   
 ▷ 기술 및 환경 :  
 	OS: windows10 / Server: Tomcat 9.0   
 	Tool: STS 4.14, GitHub  
